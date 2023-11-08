@@ -1,0 +1,10 @@
+/* Variables and mixins declared here will be available in all other SCSS files */
+
+$primary: #6096B4;
+$danger: #E53F3F;
+$pink: #F9ABA7;
+$warning: #FFD966;
+$success: #60B478;
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
